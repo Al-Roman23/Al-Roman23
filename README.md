@@ -15,7 +15,6 @@ Passionate about creating scalable, responsive, and user-friendly web applicatio
 - Building backend APIs with **Node.js** and **Express.js**.  
 - Working with **Firebase** and **MongoDB** for database management and authentication.  
 - Practicing full-stack projects and refining production-ready workflows.
-- 
 ---
 
 ## Skills
