@@ -1,4 +1,4 @@
-# Hi, I'm Al-Roman Molla 👋
+# Hi, I'm Al-Roman Molla
 ## **Full-Stack Web Developer | React & Node.js Enthusiast**
 
 ---
@@ -15,7 +15,7 @@ Passionate about creating scalable, responsive, and user-friendly web applicatio
 - Building backend APIs with **Node.js** and **Express.js**.  
 - Working with **Firebase** and **MongoDB** for database management and authentication.  
 - Practicing full-stack projects and refining production-ready workflows.
-
+- 
 ---
 
 ## Skills
@@ -41,5 +41,4 @@ Passionate about creating scalable, responsive, and user-friendly web applicatio
 
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-roman/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Al-Roman23)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alromanmolla)
